@@ -7,6 +7,7 @@
 - Öncelik sıralı haftalık çalışma programı hazırlar (dikey liste ya da yatay haftalık çizelge)
 - Öğrenci gelişim raporu, sınıf raporu ve çalışma programını A4 ve telefon biçiminde PDF olarak üretir
 - Raporları veliye WhatsApp üzerinden yarı otomatik gönderir
+- Okuyamadığı bir yayının belgesini, öğrenci adları gizlenmiş anonim bir örnekle geliştiriciye bildirmenizi sağlar
 - Verileri yalnızca bu bilgisayarda tutar, her kapanışta sıkıştırılmış yedek alır
 
 ## İndirme
