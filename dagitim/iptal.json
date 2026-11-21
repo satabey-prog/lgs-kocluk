@@ -1,7 +1,9 @@
 {
  "tur": "LGS-iptal",
- "no": 0,
+ "no": 1,
  "tarih": "2026-11-21",
- "iptal": [],
- "imza": "pG8fnyqxFUAq5st-hxR5uZbsUxaB0kVJQwQvciHpm2_LZ-g2s17bfGKKjV1vktl6qSbqQcSaMXH4BEyqVSGWAw=="
+ "iptal": [
+  "64714f10b15ceb351e95067445f5c94b"
+ ],
+ "imza": "4qUnzp_VUtuYlOWMv_zCQiq_kkB4Y25_lfCRCl6yknOvKUzlAl6M3cA7BqnO_gp37DJ00z2kBMe_7W0JcLt8AA=="
 }
