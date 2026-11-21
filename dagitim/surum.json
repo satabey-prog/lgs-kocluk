@@ -1,0 +1,190 @@
+{
+ "surum": "3.21",
+ "tarih": "2026-11-21",
+ "notlar": "• GitHub'a ulaşılamayan ağlarda (ör. bazı okul ağları) program güncelleme ve lisans bilgisini yedek bir adresten alır. Yeni sürümün kendisi indirilemezse program, evde ya da telefon internetiyle güncellemenizi söyler.\n• İnternete uzun süre bağlanılamadığında çıkan lisans doğrulama uyarısı artık haftada bir gösteriliyor.\n• Yeni: Şablon Excel dosyası. Toplu İşlemler → Excel'den Bilgi Aktar… penceresindeki “Şablon Excel Dosyası Oluştur…” ile kayıtlı öğrencilerinizin okul numarası, adı ve sınıfı hazır gelen bir Excel dosyası oluşturulur; eksik sütunları doldurup aynı pencereden yüklersiniz. Boş şablon program indirme sayfasında da var.\n• Excel'den aktarırken sistemde olmayan öğrenciler artık yeni öğrenci olarak eklenebilir: ilk kurulumda öğrencilerinizi şablon dosyayla toplu ekleyebilirsiniz (demo / lisans öğrenci sınırı geçerlidir).\n• Yeni: Hata bildirimi. Beklenmeyen bir hata olduğunda program hatayı geliştiriciye bildirmek isteyip istemediğinizi sorar; hata çıkmadan yaşadığınız sorunları Ayarlar → Sorun Bildir… ile iletebilirsiniz. Raporda öğrenci adları ve kişisel bilgiler gizlenir, göndermeden önce raporun tamamını görürsünüz.",
+ "gecmis": [
+  {
+   "surum": "3.21",
+   "tarih": "2026-11-21",
+   "maddeler": [
+    "GitHub'a ulaşılamayan ağlarda (ör. bazı okul ağları) program güncelleme ve lisans bilgisini yedek bir adresten alır. Yeni sürümün kendisi indirilemezse program, evde ya da telefon internetiyle güncellemenizi söyler.",
+    "İnternete uzun süre bağlanılamadığında çıkan lisans doğrulama uyarısı artık haftada bir gösteriliyor.",
+    "Yeni: Şablon Excel dosyası. Toplu İşlemler → Excel'den Bilgi Aktar… penceresindeki “Şablon Excel Dosyası Oluştur…” ile kayıtlı öğrencilerinizin okul numarası, adı ve sınıfı hazır gelen bir Excel dosyası oluşturulur; eksik sütunları doldurup aynı pencereden yüklersiniz. Boş şablon program indirme sayfasında da var.",
+    "Excel'den aktarırken sistemde olmayan öğrenciler artık yeni öğrenci olarak eklenebilir: ilk kurulumda öğrencilerinizi şablon dosyayla toplu ekleyebilirsiniz (demo / lisans öğrenci sınırı geçerlidir).",
+    "Yeni: Hata bildirimi. Beklenmeyen bir hata olduğunda program hatayı geliştiriciye bildirmek isteyip istemediğinizi sorar; hata çıkmadan yaşadığınız sorunları Ayarlar → Sorun Bildir… ile iletebilirsiniz. Raporda öğrenci adları ve kişisel bilgiler gizlenir, göndermeden önce raporun tamamını görürsünüz."
+   ]
+  },
+  {
+   "surum": "3.20",
+   "tarih": "2026-11-21",
+   "maddeler": [
+    "Lisans penceresi: lisansınız varken “Yeni lisans” seçerseniz uyarı çıkar. Süreyi uzatmak için “Lisans yenileme”yi seçin; kalan süreniz korunur, “Yeni lisans” bugünden başlar.",
+    "Lisans penceresi: bu bilgisayarda lisans varsa “Mevcut lisans no” lisansınızdan gelir ve değiştirilemez."
+   ]
+  },
+  {
+   "surum": "3.19",
+   "tarih": "2026-11-21",
+   "maddeler": [
+    "Demo değişti: 15 gün boyunca 30 öğrenciye kadar (2-3 sınıfı karşılaştırmaya yeter) tüm özellikler kullanılabilir. Demo süresinin bitmesine 5 gün kala program her gün bir kez hatırlatır.",
+    "Yeni: Kurum tanıtım lisansı. Okullar programı bütün sınıflarıyla, öğrenci sınırı olmadan 30 gün inceleyebilir: Lisans penceresinde talep türü olarak “Kurum tanıtım lisansı”nı seçip talep gönderin; bu bilgisayara özel anahtar e-postayla gelir. Süre bitince program salt okuma moduna geçer, veriler korunur.",
+    "Lisans yazılarında “deneme süresi” yerine “demo süresi” deniyor (deneme sınavlarıyla karışmasın).",
+    "Lisans penceresinde önerilen paket artık yalnızca kayıtlı öğrenci sayısına göre seçiliyor.",
+    "Lisans tek bilgisayar içindir: bilgisayar değişikliğinde eski bilgisayardaki lisans iptal edilir. Program açılışta, internet varsa iptal edilen lisansların imzalı listesini kontrol eder (hiçbir bilgi göndermez); lisansı iptal edilen bilgisayar salt okuma moduna geçer, veriler silinmez.",
+    "İnternet olmadan program normal çalışır; 30 gün boyunca hiç internete bağlanamazsa yalnızca uyarır.",
+    "Lisans talebinde telefon numarası zorunlu (size hızlıca ulaşılabilmesi için)."
+   ]
+  },
+  {
+   "surum": "3.18",
+   "tarih": "2026-11-20",
+   "maddeler": [
+    "Lisanssız kullanım değişti: program ilk kullanımdan itibaren 30 gün boyunca en fazla 10 öğrenciyle tüm özellikleriyle denenebilir (demo). Deneme süresi bitince program salt okuma moduna geçer: veriler silinmez, görülebilir, rapor alınabilir ve yedeklenebilir; kullanmaya devam etmek için lisans gerekir.",
+    "Önceki sürümleri lisanssız kullananlar için 30 günlük deneme süresi bu sürümle başlar.",
+    "Yeni lisans paketi: 10 öğrenci (Bireysel Koç) — az sayıda öğrenciyle çalışan koçlar için.",
+    "Üst çubukta deneme süresinin kalan günü görünür; sürenin bitmesine 7 gün kala program her gün bir kez hatırlatır."
+   ]
+  },
+  {
+   "surum": "3.17",
+   "tarih": "2026-11-20",
+   "maddeler": [
+    "Deneme Katılım Raporu'nda her sınıf yeni bir sayfadan başlıyor (A4 ve telefon biçiminde); her sınıfın sayfaları kendi sınıf öğretmenine ayrı verilebilir."
+   ]
+  },
+  {
+   "surum": "3.16",
+   "tarih": "2026-11-20",
+   "maddeler": [
+    "Yeni: Toplu İşlemler menüsü (öğrenci listesinin altında): Eksik Bilgiler (sınıfı, okul numarası, veli telefonu ya da hedef puanı olmayan öğrenciler ve şüpheli sınıf adları; buradan düzeltme), Toplu Hedef Puan (son puanların üstüne ya da herkese aynı hedef), Yıl Sonu Arşivi ve Arşivi Görüntüle.",
+    "Yeni: Sınıf Raporları menüsünde Konu Etüt Grupları (son denemelerde aynı konuda hata yapan öğrenciler; programlarına tek seferde etüt ekleme) ve Deneme Katılım Raporu (sınıfın girdiği denemelere hangi öğrencinin girmediği).",
+    "Deneme aktarma artık “ya hepsi ya hiçbiri”: yarıda bir hata olursa hiçbir öğrenciye eklenmez.",
+    "Öğrenci resmi kaldırıldı (öğrenci penceresinde, ana ekranda ve veliye giden raporda): kullanılmıyordu ve gereksiz kişisel veri riskiydi.",
+    "Denemeleri Yönet: aynı tarihte çok sayıda farklı deneme varsa tarihlerin doğruluğu hatırlatılır (belgesinde tarih yazmayan denemeler aktarma gününün tarihiyle kalmış olabilir).",
+    "Aynı deneme belgesinin yanlışlıkla ikinci kez (farklı ad ya da tarihle) aktarılmasına karşı önlem: sonuçlar daha önce aktarılmış bir denemeyle birebir aynıysa program uyarır ve eski kaydı güncellemeyi önerir. Aynı ad ve tarihle yeniden aktarırken kaç öğrencinin sonucunun değişeceği onay penceresinde yazar.",
+    "Denemeleri Yönet: başka bir denemenin kopyası görünen denemeler turuncu işaretlenir (sınav iki kez sayılıyor olabilir).",
+    "Yeni: Sınıfları Karşılaştır raporu. Seçilen sınıflar aynı deneme üzerinden ya da hepsinin girdiği son 3 denemenin ortalamasıyla karşılaştırılır: ortalama net ve puan sırası, ders ders netler, konulara göre hata oranları (hangi sınıfta hangi konu daha zayıf) ve ortak denemelerde gidişat.",
+    "Bir denemeyi tüm öğrencilerden silmek çok hızlandı (ör. 291 öğrencilik deneme 13 saniyeden 1 saniyenin altına indi); öğrenci ve tek deneme silme de hızlandı.",
+    "Toplu silme sırasında ilerleme penceresi (hangi öğrenciden silindiği). Silme yarıda bir hatayla kesilirse hiçbir kayıt silinmez.",
+    "Uzun sürebilen diğer işlemlerde de program çalıştığını bir pencereyle gösteriyor: yedekleme, yedekten geri yükleme, kazanım eşleştirmesinden sonra yeniden hesaplama, güncellemeden sonraki ilk açılış, sınıf raporu, kayıt birleştirme, Excel'den bilgi aktarma, lisans talebi ve belge bildirimi gönderme, kapanırken yedek alma.",
+    "Yeni kurulmuş bir bilgisayarda yedekten geri yükleme “okunamadı” hatası veriyordu (yedekler klasörü henüz yoktu); düzeltildi.",
+    "Veri dosyası bozulursa (ör. bilgisayar kapanırken elektrik kesilirse) program açılışta bunu söyler ve bozuk dosyayı silmeden en son yedeği geri yüklemeyi önerir.",
+    "Program aynı verilerle ikinci kez açılmaz; zaten açık olan pencere öne gelir (iki pencerenin değişiklikleri birbirini görmüyordu).",
+    "Beklenmeyen bir hata olursa kullanıcıya bildirilir ve ayrıntısı veri klasöründeki “tanilama” klasörüne kaydedilir (önceden hiçbir şey görünmüyordu).",
+    "Uzun bir işlem sürerken “Neler yeni?” ya da güncelleme bildirimi gibi pencereler işlemin ortasına girmez; işlem bitince açılır."
+   ]
+  },
+  {
+   "surum": "3.15",
+   "tarih": "2026-11-20",
+   "maddeler": [
+    "Programa MEB'in resmî 8. sınıf kazanım listesi eklendi (Matematik, Fen, Türkçe, İngilizce, Din Kültürü, İnkılap; 293 kazanım, kodlarıyla). Yayınların kazanımları önce resmî kod ve resmî cümleye benzerlikle konulara bağlanıyor; İngilizce kazanımlar artık doğru üniteye gidiyor.",
+    "Kazanım kurallarındaki hatalar düzeltildi: “Verilen …” ile başlayan kazanımlar Veri Analizi'ne, elektrik ve basit makine kazanımları Madde ve Endüstri'ye, “mizahi ögeler” Cümlenin Ögeleri'ne yanlış gidiyordu. Geçmiş denemelerin konu hataları ilk açılışta kendiliğinden yeniden hesaplanır.",
+    "Kazanım Eşleştirme penceresinde öneriler: seçilen kazanım için en olası 3 konu, güven derecesi ve gerekçesi (en benzer resmî MEB kazanımı); “Listeyi Kopyala” ile branş öğretmenine sorma.",
+    "Deneme aktarılırken ilerleme penceresi (hangi öğrencinin işlendiği)."
+   ]
+  },
+  {
+   "surum": "3.14",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Bakım sürümü: güncellemeden sonra programın kendiliğinden yeniden açılmasının sınanması için yayımlandı; programın işleyişinde değişiklik yok."
+   ]
+  },
+  {
+   "surum": "3.13",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Güncellemeden sonra program kendiliğinden yeniden açılırken çıkan “python314.dll … LoadLibrary: belirtilen modül bulunamadı” hatası giderildi (bu düzeltme bir sonraki güncellemeden itibaren etkili olur)."
+   ]
+  },
+  {
+   "surum": "3.12",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Yeni sürüm bildirimi artık üst çubuğun altında mor bir şeritte: yazı dar ekranlarda kesilmiyor (önceden “Yeni sürü…” görünüyordu).",
+    "Güncellemeyle ilgili düğmeler (Şimdi Güncelle) diğer düğmelerden ayrılsın diye mor renkte.",
+    "Üst çubuk pencereye sığmadığında başlık gizleniyor ve düğme adları kısalıyor (PDF Aktar, Toplu Rapor, Denemeler, Konular); pencere genişleyince eski hâline dönüyor."
+   ]
+  },
+  {
+   "surum": "3.11",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Bakım sürümü: otomatik güncellemenin sınanması için yayımlandı; programın işleyişinde değişiklik yok."
+   ]
+  },
+  {
+   "surum": "3.10",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Bazı bilgisayarlarda (özellikle okul / kurum ağlarında) güncelleme denetiminde, lisans talebinde ve belge bildiriminde çıkan “sertifika doğrulanamadı (CERTIFICATE_VERIFY_FAILED)” hatası giderildi: bağlantı artık Windows'un kendi sertifika sistemiyle doğrulanıyor."
+   ]
+  },
+  {
+   "surum": "3.9",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Güncellemeler artık her açılışta denetleniyor (önceden günde bir kez).",
+    "Güncelleme penceresinde, kullandığınız sürümden yenisine kadar her sürümün yenilikleri madde madde gösteriliyor.",
+    "Güncellemeden sonraki ilk açılışta “Neler yeni?” penceresi bir kez açılıyor.",
+    "Ayarlar → Güncelleme bölümünde “Yenilikler…” düğmesiyle bütün sürüm geçmişine bakılabiliyor."
+   ]
+  },
+  {
+   "surum": "3.8",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Otomatik Program penceresinde işlenen konuların en son ne zaman güncellendiği gösteriliyor; 14 günü geçince uyarı ve “Gözden Geçir…” düğmesi.",
+    "Son denemelerde sorusu çıkan ama okulda işlenmedi görünen konular öneriliyor (İşlendi / Sorma)."
+   ]
+  },
+  {
+   "surum": "3.7",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "WhatsApp ile Veliye Gönder: “Kime” seçimi — yalnızca seçili öğrencinin velisine tek gönderim ya da sınıftaki herkese sırayla.",
+    "Veli telefonu kayıtlı değilse öğrenci bilgileri açılıp telefon girilebiliyor."
+   ]
+  },
+  {
+   "surum": "3.6",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Deneme aktarırken öğrenci sınırı (demo ya da lisans paketi) baştan gösteriliyor: uyarı şeridi, “Lisans Al…” düğmesi, eklenemeyecek yeni öğrenciler gri.",
+    "WhatsApp ile program gönderiminde hafta seçilebiliyor; mesaja haftanın tarihi yazılıyor."
+   ]
+  },
+  {
+   "surum": "3.5",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Okunamayan ya da yanlış okunan deneme belgesi programın içinden anonim olarak bildirilebiliyor (öğrenci adları, okul ve ilçe adı gizlenir; PDF'in kendisi gönderilmez).",
+    "Aktarma penceresinde “Yanlış mı okundu? Bildir…” düğmesi."
+   ]
+  },
+  {
+   "surum": "3.4",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Kolay lisans talebi: “Talebi Gönder” ve size gelen lisans dosyasını seçerek etkinleştirme.",
+    "Çalışma programında görev düzenleme (gün, etkinlik, süre, soru) ve görevin tam açıklamasını gösteren ayrıntı şeridi.",
+    "Tablolarda kesilen sütunlar düzeltildi; uzun pencerelerde alttaki düğmeler her zaman görünür.",
+    "WhatsApp penceresinde büyük seçim düğmeleri; Excel listesi için başlık rehberi; mükerrer kayıtlarda ayrıntı kutusu."
+   ]
+  },
+  {
+   "surum": "3.3",
+   "tarih": "2026-11-17",
+   "maddeler": [
+    "Demo (10 öğrenci) ve yıllık lisans.",
+    "Otomatik güncelleme.",
+    "Sıkıştırılmış (ZIP) yedekler; gereksiz dosyalar kendiliğinden temizlenir."
+   ]
+  }
+ ],
+ "dosya": "https://github.com/satabey-prog/lgs-kocluk/releases/download/v3.21/LGS-Kocluk.exe",
+ "sha256": "ed2606498afbdb06dcbd4261475a98020e9cd082ce1905e498a321cd3ddc702c",
+ "boyut": 31857139,
+ "imza": "eAcBPMda2ppVb7bcPb6j5kovKWFT8jVh44-yDcPDZzdQw8XmzSisl0BvSWAgVlpDi2fidBQUy-xaMWZVHOTBCA=="
+}
